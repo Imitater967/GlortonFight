@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149325b6fe8a41b482a8c05be3277f93, type: 3}
+  m_Name: SB_Shocked
+  m_EditorClassIdentifier: 
+  tick0:
+    l_hand: {fileID: 21300000, guid: e1474277b0e050c45a57d0c10c05bb71, type: 3}
+    r_hand: {fileID: 21300000, guid: 3d212bedf11cb2b46ac2503c5c619d30, type: 3}
+    l_foot: {fileID: 21300000, guid: bf3cf56c14b72e04c995f487e1eb7456, type: 3}
+    r_foot: {fileID: 21300000, guid: cffb995901cf67c48af513e5c8d6940f, type: 3}
+    body: {fileID: 21300000, guid: e3e38c92aa525564d8116b3e6a764609, type: 3}
+  tick1:
+    l_hand: {fileID: 21300000, guid: 106f8dd95a290dd4fb3164d2559e6583, type: 3}
+    r_hand: {fileID: 21300000, guid: ae1f97220c0dbbd4c87a0b6a2d89cd81, type: 3}
+    l_foot: {fileID: 21300000, guid: edad8cff71a7f4a4687988a4587e4112, type: 3}
+    r_foot: {fileID: 21300000, guid: 2b8fcc855d9b7b544bdbe994529ade45, type: 3}
+    body: {fileID: 21300000, guid: 3e402017ff4673d45ac4189043958fe2, type: 3}

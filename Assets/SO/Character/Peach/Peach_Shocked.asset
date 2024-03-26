@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149325b6fe8a41b482a8c05be3277f93, type: 3}
+  m_Name: Peach_Shocked
+  m_EditorClassIdentifier: 
+  tick0:
+    l_hand: {fileID: 21300000, guid: 4733dde2bb94e124cb2835de2b029a25, type: 3}
+    r_hand: {fileID: 21300000, guid: 79afceeef2dd80b4a8573615ad028f1a, type: 3}
+    l_foot: {fileID: 21300000, guid: e15872bf7cc400449918f4bad0fa7111, type: 3}
+    r_foot: {fileID: 21300000, guid: a041d1cd6b728a54c96033938a91014d, type: 3}
+    body: {fileID: 21300000, guid: 559b106332925384cbb6e3566d91d64b, type: 3}
+  tick1:
+    l_hand: {fileID: 21300000, guid: 006a87301d8cde64896d92847178d533, type: 3}
+    r_hand: {fileID: 21300000, guid: fb64b63957b651f43a4fc6beabc389c9, type: 3}
+    l_foot: {fileID: 21300000, guid: 690373b2134f5d349b16b057c0d9f699, type: 3}
+    r_foot: {fileID: 21300000, guid: ec2ce9db649459e42899b4fddcc2fa71, type: 3}
+    body: {fileID: 21300000, guid: 05947c6f0ebd0064dbd889c11a70988f, type: 3}

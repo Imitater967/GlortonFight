@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FighterBox
+  - Platform
+  - Bound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - P1
+  - P2
+  - P3
+  - P4
+  - Obstacle
+  - Mechanism
+  - Projectile
+  - Bounds
+  - Mine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: P1
+    uniqueID: 1617955943
+    locked: 0
+  - name: P2
+    uniqueID: 1065108123
+    locked: 0
+  - name: P3
+    uniqueID: 1113500607
+    locked: 0
+  - name: P4
+    uniqueID: 3501726185
+    locked: 0
+  - name: FX
+    uniqueID: 4134488075
+    locked: 0
+  - name: Weapon
+    uniqueID: 69637103
+    locked: 0
+  - name: Projectile
+    uniqueID: 373294341
+    locked: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149325b6fe8a41b482a8c05be3277f93, type: 3}
+  m_Name: CoffeeShocked
+  m_EditorClassIdentifier: 
+  tick0:
+    l_hand: {fileID: 21300000, guid: 3590b4f327f15c84796558d13ba4afae, type: 3}
+    r_hand: {fileID: 21300000, guid: b8d4fa37e74bb894c9a82610580793c4, type: 3}
+    l_foot: {fileID: 21300000, guid: 72eb821e9d2ec1244a75a1101794ad2c, type: 3}
+    r_foot: {fileID: 21300000, guid: f5caa4120ef79954bacf867623833658, type: 3}
+    body: {fileID: 21300000, guid: 6c90717936689e44eac4f7df31f9d839, type: 3}
+  tick1:
+    l_hand: {fileID: 21300000, guid: 6b098cab60041654ca6516456c088371, type: 3}
+    r_hand: {fileID: 21300000, guid: f157681bac93c33478451f162d48c9ee, type: 3}
+    l_foot: {fileID: 21300000, guid: 1c54ddf75440bbe40bcc21e96bb16729, type: 3}
+    r_foot: {fileID: 21300000, guid: 75f7b75e850b86149b8314c8e747e5f9, type: 3}
+    body: {fileID: 21300000, guid: cd577c1018e9f6a46b3965ca517a769f, type: 3}

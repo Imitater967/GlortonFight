@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chr_AC_Ball
+  m_Controller: {fileID: 9100000, guid: 20cae9efde1db2e44bacdc52f45cf8ae, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 164be7899ddc2b64d9e79c783d121dfb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3a6c380ef37aa6543afc4d54d4410901, type: 2}

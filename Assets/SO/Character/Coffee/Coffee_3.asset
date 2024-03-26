@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad7dd9321015420eb7123471a2dfc95b, type: 3}
+  m_Name: Coffee_3
+  m_EditorClassIdentifier: 
+  Fighter: {fileID: 5760683432508020289, guid: 8f4cdee4895f9c74791e89a8d562fbcd, type: 3}
+  Skin: {fileID: 11400000, guid: 40f9df2e2b7ebdc4285c6bf7df126956, type: 2}
+  Preview: {fileID: 21300000, guid: c115141c1914cc848b3bbd9961dd1771, type: 3}
+  HealthSlot: {fileID: 21300000, guid: a6d58685b67b78a4dabec355c13c0106, type: 3}
+  HealthBarBG: {fileID: 21300000, guid: be6c0be3ed0f2b14e8e6823044bb806f, type: 3}

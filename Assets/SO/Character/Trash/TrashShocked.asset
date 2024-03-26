@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149325b6fe8a41b482a8c05be3277f93, type: 3}
+  m_Name: TrashShocked
+  m_EditorClassIdentifier: 
+  tick0:
+    l_hand: {fileID: 21300000, guid: be1728844c725d64a919ec08e6014bd8, type: 3}
+    r_hand: {fileID: 21300000, guid: 4ebaab0cf460f1546be5dc748ac277a6, type: 3}
+    l_foot: {fileID: 21300000, guid: 4f9ca3ffa6ed9cc4694415fb3ea09ef7, type: 3}
+    r_foot: {fileID: 21300000, guid: 799e0f3ba34e9c549b8583c503e9c7a1, type: 3}
+    body: {fileID: 21300000, guid: 34e5e21147f36db4c8cf5bd7b13ef885, type: 3}
+  tick1:
+    l_hand: {fileID: 21300000, guid: 068cef95bd34a2e40a82207d43fa772d, type: 3}
+    r_hand: {fileID: 21300000, guid: 4aa714a325211d844bd362a39697aeec, type: 3}
+    l_foot: {fileID: 21300000, guid: 3576320b80d393d4d8712576b78e4f59, type: 3}
+    r_foot: {fileID: 21300000, guid: 22d6a48fd7a6ea54baaa2658e1a9a7e8, type: 3}
+    body: {fileID: 21300000, guid: af74159b9f0e95a49bc48e009970bab4, type: 3}

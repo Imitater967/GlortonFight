@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b374c1675ca447b829324fb808a8df1, type: 3}
+  m_Name: Peach_Style_0
+  m_EditorClassIdentifier: 
+  shockedSheet: {fileID: 11400000, guid: 7ba363db52bb13a478f25077cbec2717, type: 2}
+  defaultSheet:
+    l_hand: {fileID: 21300000, guid: fcb4da926befc784aba42271328b83f9, type: 3}
+    r_hand: {fileID: 21300000, guid: 15324cc04202a7847806c4541b594748, type: 3}
+    l_foot: {fileID: 21300000, guid: 4c6860cff96e357419e33b1b20240b34, type: 3}
+    r_foot: {fileID: 21300000, guid: 4a1c5cc473e4462469b51388cdd2da11, type: 3}
+    body: {fileID: 21300000, guid: 550d04e0b049a5749bd3da19777faeae, type: 3}
+  l_fist: {fileID: 21300000, guid: 801ffad40cc1db043a55c971310fbbc0, type: 3}
+  r_fist: {fileID: 21300000, guid: 98e3922fc047ea24787f35c12dbbcf35, type: 3}
+  saEffect: {fileID: 0}
+  r_shotHand: {fileID: 21300000, guid: 74f8f3c009e2f3e41b8e415d53964b7b, type: 3}

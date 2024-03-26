@@ -1,0 +1,11 @@
+﻿@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+Chr -> Game: Attack 
+Game -> Audio: Attack
+Game -> Combat: Attack 
+Audio -> Game: Play Audio
+Combat -> Game: Reduce Health
+@enduml

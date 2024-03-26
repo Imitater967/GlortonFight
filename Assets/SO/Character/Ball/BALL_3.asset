@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad7dd9321015420eb7123471a2dfc95b, type: 3}
+  m_Name: BALL_3
+  m_EditorClassIdentifier: 
+  Fighter: {fileID: 1444405312856331367, guid: 72e4f7481696b6a43b12fda27fb2e42a, type: 3}
+  Skin: {fileID: 11400000, guid: db17c3e27088f444192fa5c434c58dbb, type: 2}
+  Preview: {fileID: 21300000, guid: 2b8a25bb74d57d04fa0be46dfa04f7df, type: 3}
+  HealthSlot: {fileID: 21300000, guid: 25b7d98975abb134bb7653c5689685bd, type: 3}
+  HealthBarBG: {fileID: 21300000, guid: efeafc757df77674c99098fa721b46da, type: 3}

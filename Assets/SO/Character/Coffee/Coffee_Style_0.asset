@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080ae004f62c47d2bfa2ab7f816503ae, type: 3}
+  m_Name: Coffee_Style_0
+  m_EditorClassIdentifier: 
+  shockedSheet: {fileID: 11400000, guid: 3e54003837ffa864abf934b4fad63874, type: 2}
+  defaultSheet:
+    l_hand: {fileID: 21300000, guid: dabc429f83149dc4abb43661ca53dbf5, type: 3}
+    r_hand: {fileID: 21300000, guid: 334d25047b6603c4dbb3f03fe87f1123, type: 3}
+    l_foot: {fileID: 21300000, guid: 6f1fa83bdd0f8eb4f811d3d1d0e046bb, type: 3}
+    r_foot: {fileID: 21300000, guid: cd4caba8113996e42b8f8e7b14f750e1, type: 3}
+    body: {fileID: 21300000, guid: bfc0e146b13a5494c8a119a2b3012d42, type: 3}
+  l_fist: {fileID: 21300000, guid: b4ad5aa1f5712ab46b68eb87acb3672a, type: 3}
+  r_fist: {fileID: 21300000, guid: 0469f74e1dc523c4e94b803edd82d065, type: 3}
+  saEffect: {fileID: 0}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2af59d4a26145ef8c7743175d5a06c8, type: 3}
+  m_Name: New Audio Manager
+  m_EditorClassIdentifier: 
+  soundVolumeGlobal: 3
+  musicVolumeGlobal: 1
+  attackAudio:
+  - {fileID: 11400000, guid: 4d67c52012b165149bbafaa36dad3ab4, type: 2}
+  - {fileID: 11400000, guid: 4f14ef308652f4f478b0bf86dfafd8c4, type: 2}
+  boom: {fileID: 11400000, guid: 920153e0555ee9242b5b57dd688ee0f2, type: 2}
+  strawBerrySpecialAttack: {fileID: 11400000, guid: caa5e2825e258e543944539ff79455eb,
+    type: 2}
+  strawBerryRangedAttack: {fileID: 11400000, guid: 2769243ea80f48d429b8a47aeba3ac54,
+    type: 2}
+  ballSpecialAttack: {fileID: 11400000, guid: 4e57fe25b8a5b57438f77b54afc8978c, type: 2}
+  ballRangedAttackSomeone: {fileID: 11400000, guid: 8e4854d8e26aaea4597b9926fb29aefb,
+    type: 2}
+  peachRocketLaunch: {fileID: 11400000, guid: 9d213f4ce3229824081344fcd734107a, type: 2}
+  peachGunFire: {fileID: 11400000, guid: 9334ae228b2453a499f5599959cf30fe, type: 2}
+  aubergineSpecialAttack: {fileID: 11400000, guid: f0ae4fd8feda12d44964519e01956e28,
+    type: 2}
+  coffeeSpecialAttack: {fileID: 11400000, guid: b4a59b93c9ec9b2409b5603f60f5b37b,
+    type: 2}
+  coffeeFart:
+  - {fileID: 11400000, guid: 53458f36fd99fdc478917a0fc7848ace, type: 2}
+  - {fileID: 11400000, guid: c7aaefd57c1dfee448fa0d3fbeb39ca5, type: 2}

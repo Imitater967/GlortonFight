@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 309b391846034848a427a416f2cb22f2, type: 3}
+  m_Name: Trash_Typle_0
+  m_EditorClassIdentifier: 
+  shockedSheet: {fileID: 11400000, guid: f0a017b636cd0b242a1cf923c7221efa, type: 2}
+  defaultSheet:
+    l_hand: {fileID: 21300000, guid: b368d93a74aa7624e888a401c4346783, type: 3}
+    r_hand: {fileID: 21300000, guid: 38e95c1058c432b469f4098eac8373c0, type: 3}
+    l_foot: {fileID: 21300000, guid: 452ba9274b319314ca5778bb0d2dc0ac, type: 3}
+    r_foot: {fileID: 21300000, guid: a06572df4d261f44093abed588fb4393, type: 3}
+    body: {fileID: 21300000, guid: 09643505902c9be40a914908c0874c44, type: 3}
+  l_fist: {fileID: 21300000, guid: c593ca29917ff5048b26a5d6955e6090, type: 3}
+  r_fist: {fileID: 21300000, guid: 430347d2b7c4333479179d4f4d62fcc6, type: 3}
+  saEffect: {fileID: 0}

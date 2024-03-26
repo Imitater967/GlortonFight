@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79711ecf6fc042f7a12e0ff6a264f508, type: 3}
+  m_Name: P2
+  m_EditorClassIdentifier: 
+  jumpCode: 273
+  leftCode: 276
+  rightCode: 275
+  crouchCode: 274
+  attack0Code: 257
+  attack1Code: 258
+  shieldCode: 256
+  flyBlockDuration: 1
